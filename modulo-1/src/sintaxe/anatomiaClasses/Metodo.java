@@ -1,4 +1,4 @@
-package curso.anatomiaClasses;
+package sintaxe.anatomiaClasses;
 
 public class Metodo {
 

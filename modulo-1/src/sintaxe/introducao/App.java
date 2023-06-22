@@ -1,4 +1,4 @@
-package curso.introducao;
+package sintaxe.introducao;
 
 public class App {
     public static void main(String[] args) throws Exception {
