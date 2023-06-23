@@ -6,9 +6,6 @@ public class SmarTv {
         int canal = 0;
         int volume = 0;
 
-
- 
-
     public void ligar (){
         ligada = true;
     }
@@ -19,10 +16,12 @@ public class SmarTv {
 
     public void aumentarVolume (){
        volume++;
+       System.out.println("Aumentando o volume para: " + volume);
     }
 
     public void diminuirVolume (){
         volume--;
+        System.out.println("Diminuindo o volume para: " + volume);
     }
 
     public void mudarCanal (){
