@@ -1,0 +1,113 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Cristiano",
+            "request": "launch",
+            "mainClass": "TesteArgumentos",
+            "args": ["GLEYSON", "SAMPAIO", "28", "1.58"]
+        },
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Identacao",
+            "request": "launch",
+            "mainClass": "sintaxe.anatomiaClasses.Identacao",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "Metodo",
+            "request": "launch",
+            "mainClass": "sintaxe.anatomiaClasses.Metodo",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "sintaxe.introducao.App",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaMetodo",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.EstruturaMetodo",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.Usuario",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "ComparandoObjetos",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.ComparandoObjetos",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "ExemploConcatenacao",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.ExemploConcatenacao",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "OperadorLogico",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadorLogico",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "OperadorRelacional",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadorRelacional",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadorTernario",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadorUnario",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "TesteArgumentos",
+            "request": "launch",
+            "mainClass": "sintaxe.terminalArgumentos.TesteArgumentos",
+            "projectName": "Modulo-1_15a56021"
+        },
+        {
+            "type": "java",
+            "name": "TesteTerminal",
+            "request": "launch",
+            "mainClass": "sintaxe.terminalArgumentos.TesteTerminal",
+            "projectName": "Modulo-1_15a56021"
+        }
+    ]
+}
