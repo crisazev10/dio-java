@@ -4,13 +4,6 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "Cristiano",
-            "request": "launch",
-            "mainClass": "TesteArgumentos",
-            "args": ["GLEYSON", "SAMPAIO", "28", "1.58"]
-        },
 
         {
             "type": "java",
