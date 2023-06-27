@@ -1,6 +1,6 @@
 package estruturasCondicionais;
 
-public class SwitchCase {
+public class SwitchCase1 {
 	public static void main(String[] args) {
 		String sigla = "M";
 
