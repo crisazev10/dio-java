@@ -1,6 +1,6 @@
 package estruturasDeRepetição;
 
-public class TesteForEach {
+public class ExemploForEach {
     public static void main(String[] args) {
         String alunos [] =  {"FELIPE","JONAS","JULIA","MARCOS"};
         

@@ -1,6 +1,6 @@
 package estruturasDeRepetição;
 
-public class TesteForArrays {
+public class ExemploForArrays {
     public static void main(String[] args) {
         String alunos[] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
 
