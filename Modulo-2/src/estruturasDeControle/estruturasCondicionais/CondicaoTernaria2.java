@@ -1,4 +1,4 @@
-package estruturasCondicionais;
+package controleDeFluxo.estruturasCondicionais;
 
 public class CondicaoTernaria2 {
 	public static void main(String[] args) {

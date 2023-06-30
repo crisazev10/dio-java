@@ -1,4 +1,4 @@
-package estruturasDeRepetição;
+package controleDeFluxo.estruturasDeRepetição;
 
 public class ExemploFor {
 	public static void main(String[] args) {

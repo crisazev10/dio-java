@@ -1,4 +1,4 @@
-package estruturasCondicionais;
+package controleDeFluxo.estruturasCondicionais;
 
 public class CondicionalSimples {
     public static void main(String[] args) {

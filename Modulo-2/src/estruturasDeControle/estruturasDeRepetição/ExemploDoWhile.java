@@ -1,4 +1,4 @@
-package estruturasDeRepetição;
+package controleDeFluxo.estruturasDeRepetição;
 
 import java.util.Random;
 
