@@ -1,12 +1,13 @@
 package estruturasDeControle.atividadeProcessoSeletivo;
 
-public class AnalisandoCadidatos {
+public class AnalisandoCandidatos {
     public static void main(String[] args) {
         CompararSalario(2500, 2000);
 
         CompararSalario(2500, 2500);
 
         CompararSalario(2500, 4000);
+
     }
 
     static void CompararSalario(double salarioBase, double salarioPretendido){
